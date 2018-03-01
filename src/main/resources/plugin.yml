@@ -1,0 +1,8 @@
+name: Users
+version: 1.0-SNAPSHOT
+description:
+authors: [Nicklas Reincke]
+website: https://www.reynke.com
+depend: [Core]
+
+main: com.reynke.sloud.users.UsersPlugin
