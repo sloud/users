@@ -1,4 +1,4 @@
-# Users
+# Sloud Users Plugin
 
 Spigot powered plugin for basic user management.
 
