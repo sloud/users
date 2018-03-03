@@ -22,7 +22,7 @@ targetCompatibility = 1.8
 
 def libraryGroupId = 'com.reynke.sloud'
 def libraryArtifactId = 'users'
-def libraryVersion = '1.0.0'
+def libraryVersion = '1.0.1'
 def libraryMainClassName = 'UsersPlugin'
 
 group libraryGroupId + '.' + libraryArtifactId
