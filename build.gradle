@@ -85,7 +85,7 @@ artifactory {
     }
     resolve {
         repository {
-            repoKey = 'gradle-release'
+            repoKey = 'gradle-all'
             username = reynke_artifactory_username
             password = reynke_artifactory_password
             maven = true
